@@ -3,6 +3,7 @@ AlgoritmoGenetico
 
 | Trabalho para matéria de Inteligência Artificial do Ifes - Serra,
 2021/1.
+
 | Este tutorial tem o objetivo de ensinar como executar o Algoritmo
 Genético para buscar o valor mínimo da função |equation| dentro do
 limite horizontal de x = [-20, 20].
